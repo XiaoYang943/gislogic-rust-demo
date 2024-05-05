@@ -13,7 +13,7 @@
 - Cargo是Rust的构建系统和包管理工具
   - `cargo --version`
 ### 创建项目
-- `cargo new projectName`
+- `cargo new project-name`
   - Cargo.toml是项目的配置文件
   - 第三方库叫crate
 ### 构建项目
