@@ -29,16 +29,6 @@
   - 比`cargo build`快，用于检查代码
 ### 更换镜像
 - `C:\Users\xxx\.cargo`的`config`文件
-
-::: details
-[source.crates-io]
-registry = "https://github.com/rust-lang/crates.io-index"
-
-replace-with = 'tuna'
-
-[source.tuna]
-registry = "https://mirrors.tuna.tsinghua.edu.cn/git/crates.io-index.git"
-:::
 ## 常用命令
 - `rustc --version`查看rust版本
 - `ustup update`更新工具链
